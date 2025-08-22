@@ -150,19 +150,16 @@
       <td style="padding: 20px; text-align: center; vertical-align: middle;">
         <h3 style="margin: 0 0 20px 0;">Let's collaborate and build secure solutions!</h3>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-          <a href="https://www.linkedin.com/in/dinesh-more99-">
+          <a href="https://www.linkedin.com/in/www.linkedin.com/in/dinesh~more">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"/>
           </a>
-          <a href="https://tryhackme.com/p/sh1vam.03">
-            <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="max-width: 100%;"/>
-          </a>
-          <a href="https://www.instagram.com/sh1vam_03">
+          <a href="https://www.instagram.com/dineshmore5523">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="max-width: 100%;"/>
           </a>
           <a href="https://github.com/dinesh-more99">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"/>
           </a>
-          <a href="mailto:your-email@example.com">
+          <a href="mailto:dineshmore9970@gmail.com">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;"/>
           </a>
         </div>
