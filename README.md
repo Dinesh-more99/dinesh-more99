@@ -150,7 +150,7 @@
       <td style="padding: 20px; text-align: center; vertical-align: middle;">
         <h3 style="margin: 0 0 20px 0;">Let's collaborate and build secure solutions!</h3>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-          <a href="https://www.linkedin.com/in/www.linkedin.com/in/dinesh~more">
+          <a href="https://www.linkedin.com/in/dinesh~more">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"/>
           </a>
           <a href="https://www.instagram.com/dineshmore5523">
