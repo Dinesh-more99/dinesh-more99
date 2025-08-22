@@ -38,13 +38,13 @@
     <tr>
       <td style="background: rgba(111, 58, 255, 0.1); padding: 20px; border-radius: 10px; border-top: 3px solid #6F3AFF;">
         <p style="line-height: 1.6; margin: 0;">
-          I am a <strong>Full Stack Developer</strong> and <strong>Certified Ethical Hacker</strong> with specialized expertise in <strong>Penetration Testing</strong> and application security. My unique combination of development skills and security knowledge allows me to build robust web applications with security integrated at every layer of the technology stack.
+          I am a passionate <strong>Web Developer</strong> with expertise in building responsive, scalable, and user-friendly web applications. I specialize in both <strong>frontend</strong> and <strong>backend development</strong>, crafting modern solutions that are clean, efficient, and maintainable.
         </p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
-          With experience in both creating software and ethically breaking it, I implement security best practices during development while proactively identifying vulnerabilities through comprehensive penetration testing. This dual perspective enables me to deliver solutions that are not just functional, but fundamentally secure by design.
+          My focus is on delivering <strong>secure, performant, and elegant applications</strong> by leveraging the latest frameworks, libraries, and development best practices. I create seamless user experiences while ensuring the codebase is optimized for long-term growth and adaptability.
         </p>
         <p style="line-height: 1.6; margin: 15px 0 0;">
-          My technical approach combines modern web development frameworks with offensive security methodologies to create applications that withstand real-world threats while maintaining optimal performance and user experience.
+          From designing intuitive interfaces to developing robust APIs and databases, I take a full-cycle approach to web development — turning ideas into reliable digital products that make an impact.
         </p>
       </td>
     </tr>
