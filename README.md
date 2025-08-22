@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=150&section=header&text=dinesh-more99&desc=Cyber%20Security%20Expert%20%7C%20Full%20Stack%20Developer&fontSize=50&descSize=15&fontAlignY=25&descAlignY=45&animation=fadeIn&fontColor=fff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=150&section=header&text=dinesh-more99&desc=Web%20devloper%20%7C%20Full%20Stack%20Developer&fontSize=50&descSize=15&fontAlignY=25&descAlignY=45&animation=fadeIn&fontColor=fff"/>
 
   <div style="margin: 20px 0; padding: 0 15px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer+%26+Security+Expert;Web+Security+%26+Penetration+Tester;Ethical+Hacker;Secure+%26+Elegant+Solutions" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
